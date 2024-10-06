@@ -181,7 +181,7 @@ nav {
 
 .about-us {
     position: relative;
-    padding: 80px;
+    padding: 40px;
     text-align: center;
     color: white; /* Ensure text is readable on the new background */
     overflow: hidden; /* Ensure SVG doesn't overflow */
